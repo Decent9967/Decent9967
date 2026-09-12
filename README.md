@@ -4,7 +4,7 @@ I run AI agents on my own servers by day, and build their mobile client by night
 
 **🤖 Open source**
 
-- Contributor to [hermes-agent](https://github.com/NousResearch/hermes-agent) — fixed a 500 crash in the runs API on aiohttp < 3.14 ([merged to main](https://github.com/NousResearch/hermes-agent/pull/109157))
+- Contributor to [hermes-agent](https://github.com/NousResearch/hermes-agent) ([#109157](https://github.com/NousResearch/hermes-agent/pull/109157))
 
 **🎙️ Speech**
 
@@ -14,4 +14,4 @@ I run AI agents on my own servers by day, and build their mobile client by night
 
 - [all-backend-you-need](https://github.com/Decent9967/all-backend-you-need) — an interactive backend knowledge map organized by domain (TypeScript)
 
-**🔧 Usual stack**: Flutter · Python · TypeScript · Cloudflare · Tencent Cloud
+**🔧 Usual stack**: Flutter · Python · TypeScript
