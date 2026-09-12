@@ -4,7 +4,7 @@ I run AI agents on my own servers by day, and build their mobile client by night
 
 **🤖 Open source**
 
-- Contributor to [hermes-agent](https://github.com/NousResearch/hermes-agent) — fixed a 500 crash in the runs API on aiohttp < 3.14 ([merged to main](https://github.com/NousResearch/hermes-agent/pull/109157)), plus a [scoped run-listing endpoint](https://github.com/NousResearch/hermes-agent/pull/109220) currently in review
+- Contributor to [hermes-agent](https://github.com/NousResearch/hermes-agent) — fixed a 500 crash in the runs API on aiohttp < 3.14 ([merged to main](https://github.com/NousResearch/hermes-agent/pull/109157))
 
 **🎙️ Speech**
 
