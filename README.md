@@ -5,7 +5,6 @@ I run AI agents on my own servers by day, and build their mobile client by night
 **🤖 Agent infrastructure**
 
 - Contributor to [hermes-agent](https://github.com/NousResearch/hermes-agent) — fixed a 500 crash in the runs API on aiohttp < 3.14 ([merged to main](https://github.com/NousResearch/hermes-agent/pull/109157)), plus a [scoped run-listing endpoint](https://github.com/NousResearch/hermes-agent/pull/109220) currently in review
-- Maintain a stripped personal build of [Conduit](https://github.com/cogwheel0/conduit) (Flutter): removed voice/location/camera/PDF — 48.7 MB with zero sensitive permissions — and added approval push notifications plus a live agent activity home screen
 - Operating Hermes + OpenClaw agents on a Tencent Cloud server (Feishu integration, direct-connect routing via Cloudflare DNS, automated certificate renewal)
 
 **🎙️ Speech**
@@ -14,7 +13,6 @@ I run AI agents on my own servers by day, and build their mobile client by night
 
 **📚 Learning & tools**
 
-- [langgraph-learn-with-agent](https://github.com/Decent9967/langgraph-learn-with-agent) — using an agent to bootstrap learning a new framework
 - [all-backend-you-need](https://github.com/Decent9967/all-backend-you-need) — an interactive backend knowledge map organized by domain (TypeScript)
 
 **🔧 Usual stack**: Flutter · Python · TypeScript · Cloudflare · Tencent Cloud
